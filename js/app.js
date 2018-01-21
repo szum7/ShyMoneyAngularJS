@@ -1,1 +1,0 @@
-var app = angular.module("ShyMoneyApp", ['ngMaterial']);

@@ -1,5 +1,4 @@
-/db.php
 /ignore/
 /safe/
-/js/safe.js
-/nbproject/private/
+/.git/
+/.vs/
